@@ -119,3 +119,25 @@
     font-weight: 600;
     border: 1px solid #161C34;
 }
+
+.great{
+    height: 600px;
+    padding-top: 40px;
+    background-color: aquamarine;
+}
+
+.slid{
+    height: 300px;
+     width: 50%;
+     margin-left: 300px;
+      background-color: red;
+      margin-top: 45px;
+      text-align: center;
+}
+
+.mine{
+    height: 100px;
+    width: 36%;
+    position: relative;
+    bottom: 46px;
+}
