@@ -61,6 +61,8 @@
 .btb{
     background-color: #F36B2B;
     color: white;
+    margin-right: 12px;
+    font-size: 15px;
 }
 
 .sect2{
@@ -101,7 +103,7 @@
 
 .seco{
     background-image: url('./cross_orange.png');
-    height: 200px;
+    height: 232px;
     background-color: #161C34;
 }
 
