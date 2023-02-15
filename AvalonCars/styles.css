@@ -169,5 +169,25 @@
 
 .yog{
     height: 400px;
-    background-color: pink;
+    background-color: #161C34;
+}
+
+.yog h2{
+    font-size: 40px;
+    color: white;
+    font-weight: 800;
+}
+
+.mojo li{
+    height: 62px;
+    width: 64px;
+    border: 1px solid #F36B2B;
+    text-align: center;
+    border-radius: 71px;
+    margin-left: 10px;
+}
+
+.mojo li i{
+    color: #F36B2B;
+    margin-top: 20px;
 }
