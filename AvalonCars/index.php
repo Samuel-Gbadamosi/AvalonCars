@@ -50,7 +50,7 @@
                         <p class="wel">WELCOME</p>
                         <h2 class="av">AVALON</h2>
                         <p class="tft">it is a long established fact that a reader will be distracted by the readable content of a page when looking at it's layout.</p>
-                        <button class="btn btn btn-lg btb"> Book Now<i class="fa-solid fa-chevron-right"></i></button>
+                        <button class="btn btn btn-lg btb" onclick="vieme()" > Book Now<i class="fa-solid fa-chevron-right"></i></button>
                         <button class="btn btn btn-lg btb" >About Us <i class="fa-solid fa-chevron-right"></i></button>
 
                     </div>
@@ -72,14 +72,7 @@
                           </div>
                         
                         </div>
-                        <!-- <button class="carousel-control-prev " type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden ">Previous</span>
-                        </button> -->
-                        <!-- <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Next</span>
-                        </button> -->
+                  
                       </div>
 
                 </div>
@@ -419,6 +412,7 @@
         </div>
 
     </footer>
+    <script src="script.js"></script>
     <!-- footer ends here -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 
