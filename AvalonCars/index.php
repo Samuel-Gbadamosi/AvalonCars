@@ -28,7 +28,7 @@
                 <div>
                     <ul class="d-flex justify-content-around list-unstyled pt-2">
                         <li><i class="fa-solid fa-phone p-1"></i> 987-654-3210</li>
-                        <li> <i class="fa-solid fa-envelope p-1"></i> name@domain.com</li>
+                        <li> <i class="fa-solid fa-envelope p-1"></i> avaloncars@gmail.com</li>
                         <li> <i class="fa-solid fa-magnifying-glass p-1"></i></li>
                     </ul>
                 </div>
